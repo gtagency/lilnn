@@ -12,3 +12,5 @@ You will need:
 * Python 3
 * numpy
 * tqdm
+
+You will also need the MNIST dataset from [this website](http://deeplearning.net/tutorial/gettingstarted.html).
